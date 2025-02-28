@@ -8,7 +8,6 @@
   - [ ] Estrutura sequencial
   - [ ] Estrutura condicional
   - [ ] Estruturas repetitivas
-  - [ ] Introdução à linguagem Java
 
 - [ ] POO
   - [ ] Introdução à Programação Orientada a Objetos
