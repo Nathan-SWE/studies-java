@@ -5,7 +5,7 @@
 - [ ] Lógica de programação
 
   - [✅] Introdução à linguagem Java
-  - [ ] Estrutura sequencial
+  - [✅] Estrutura sequencial
   - [ ] Estrutura condicional
   - [ ] Estruturas repetitivas
 
