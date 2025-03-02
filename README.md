@@ -6,7 +6,7 @@
 
   - [✅] Introdução à linguagem Java
   - [✅] Estrutura sequencial
-  - [ ] Estrutura condicional
+  - [✅] Estrutura condicional
   - [ ] Estruturas repetitivas
 
 - [ ] POO
