@@ -2,12 +2,12 @@
 
 ## Fundamentos
 
-- [ ] Lógica de programação
+- [✅] Lógica de programação
 
   - [✅] Introdução à linguagem Java
   - [✅] Estrutura sequencial
   - [✅] Estrutura condicional
-  - [ ] Estruturas repetitivas
+  - [✅] Estruturas repetitivas
 
 - [ ] POO
   - [ ] Introdução à Programação Orientada a Objetos
