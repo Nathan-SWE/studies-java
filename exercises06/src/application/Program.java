@@ -22,7 +22,7 @@ public class Program {
         employee.tax = inputData.nextDouble();
         System.out.println(employee);
 
-        System.out.print("Which percentage to increase salary? ");
+        System.out.print("\nWhich percentage to increase salary? ");
         employee.increaseSalary(inputData.nextDouble());        
         System.out.println(employee);
 

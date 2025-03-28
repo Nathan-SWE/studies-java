@@ -14,6 +14,6 @@ public class Employee {
     }
 
     public String toString(){
-        return String.format("Employee: %s, $ %.2f", this.name, netSalary());
+        return String.format("\nEmployee: %s, $ %.2f", this.name, netSalary());
     }
 }
