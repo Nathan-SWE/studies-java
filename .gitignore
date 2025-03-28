@@ -1,5 +1,5 @@
-/*/.vscode
-/*/lib
-/*/bin
-**.iml
-**.idea
+.vscode/
+.idea/
+lib/
+bin/
+*.iml
